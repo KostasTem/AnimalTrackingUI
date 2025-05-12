@@ -1,6 +1,6 @@
 # AnimalTrackingUI
 
-This project is a Android application used for tracking animal locations and finding lost pets with the help of other users. It also allows users to identify animals from a picture using AI.
+This project is an Android application written in Kotlin using Jetpack Compose that is used for tracking animal locations and finding lost pets with the help of other users. It also allows users to identify animals from a picture using AI.
 
 ## First Launch
 ![εικόνα](https://github.com/user-attachments/assets/8ddc1589-89ab-49f1-b348-561c1d4bb179)
