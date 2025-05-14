@@ -2,6 +2,10 @@
 
 This project is an Android application written in Kotlin using Jetpack Compose that is used for tracking animal locations and finding lost pets with the help of other users. It also allows users to identify animals from a picture using AI.
 
+The Spring Boot API that serves as the backed for this application can be found [here](https://github.com/KostasTem/AnimalTrackingAPI).
+
+The Tensorflow and FastAPI based python project that handles the identification of animals from pictures using machine learnig can be found [here](https://github.com/KostasTem/AnimalIdentificationAPI).
+
 ## First Launch
 ![εικόνα](https://github.com/user-attachments/assets/8ddc1589-89ab-49f1-b348-561c1d4bb179)
 ![εικόνα](https://github.com/user-attachments/assets/cb5baf66-9ee7-4310-bd0a-958432a0ac41)
